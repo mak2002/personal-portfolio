@@ -1,6 +1,6 @@
 ---
 title: "Font Size Plugin for Joplin"
-# description: "Editor Font Size shortcut plugin for markdown editor"
+description: "100+ users downloads"
 dateString: May 2022
 draft: false
 tags: ["TypeScript", "Joplin", "CSS"]
