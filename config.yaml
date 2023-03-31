@@ -72,6 +72,8 @@ params:
       url: "https://www.linkedin.com/in/mayank-bondre-11a522223/"
     - name: "github"
       url: "https://github.com/mak2002"
+    - name: "twitter"
+      url: "https://twitter.com/MayankBondre"
     # - name: "cv"
     #   url: ""
 
