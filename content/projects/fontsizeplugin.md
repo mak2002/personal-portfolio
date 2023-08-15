@@ -17,4 +17,4 @@ weight: 204
 - This plugin is written in TypeScript and CSS.
 - It implements a keyboard shortcut to make it easy for users to adjust the font size.
 - When the keyboard shortcut is used, the plugin modifies the CSS of the rendered editor to change the font size.
-- The plugin has been downloaded by over **100 users**.
+- The plugin has been downloaded by over **1200 users**.
