@@ -1,6 +1,6 @@
 ---
 title: "Font Size Plugin for Joplin"
-description: "100+ users downloads"
+description: "1200+ users downloads"
 dateString: May 2022
 draft: false
 tags: ["TypeScript", "Joplin", "CSS"]
