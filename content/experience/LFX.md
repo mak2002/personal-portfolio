@@ -1,5 +1,5 @@
 ---
-title: "Linux Foundation Mentorship 2023 Mentee"
+title: "Hyperledger Fabric Mentorship 2023 Mentee"
 description: "Hyperledger Fabric (Remote)"
 dateString: June 2023 - Nov 2023
 draft: false
