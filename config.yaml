@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Mayank Bondre"
-    subtitle: "Hi 👋, I'm Mayank, Open Source Enthusiast, LFX'23@ Hyperledger Fabric, GSoC'22@ Joplin, Full Stack Developer"
+    subtitle: "Hi 👋, I'm Mayank, Full Stack Developer, LFX'23@ Hyperledger Fabric, GSoC'22@ Joplin, Open Source Enthusiast"
     imageUrl: "home/me.jpg"
     imageWidth: 220
     imageHeight: 220
